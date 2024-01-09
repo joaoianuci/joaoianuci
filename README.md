@@ -1,6 +1,3 @@
-<h1 align="center">
-    <img alt="joaoianuci" src="https://i.imgur.com/FryyaOG.png" />
-</h1>
 <p> 
   Web development enthusiast, passionate by JavaScript and all your ecosystem. 
 </p>
