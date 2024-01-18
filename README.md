@@ -12,11 +12,10 @@
 - Proficient in Node.js, React.js, and Next.js with a strong command of TypeScript.
 - Enthusiastic about the world of Web3 and blockchain in general.
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![Next](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
-![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js&Color=00599C)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
 
 **DevOps**
 
