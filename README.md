@@ -11,11 +11,13 @@
 
 - Proficient in Node.js, React.js, and Next.js with a strong command of TypeScript.
 - Enthusiastic about the world of Web3 and blockchain in general.
+- A lot of Smart Contracts implemented and deployed on EOS/WAX blockchain with C++
 
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![Next](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js&Color=00599C)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=cplusplus)
 
 **DevOps**
 
